@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "first_name": "Jase",
+    "last_name": "Corkitt",
+    "email": "jcorkitt0@webnode.com",
+    "gender": "Male",
+    "ip_address": "171.81.102.176"
+  },
+  {
+    "id": "2",
+    "first_name": "Ryun",
+    "last_name": "McGinly",
+    "email": "rmcginly1@nymag.com",
+    "gender": "Male",
+    "ip_address": "35.235.156.157"
+  },
+  {
+    "id": "3",
+    "first_name": "Markus",
+    "last_name": "M'Quharge",
+    "email": "mmquharge2@goo.ne.jp",
+    "gender": "Male",
+    "ip_address": "127.87.56.191"
+  },
+  {
+    "id": "4",
+    "first_name": "Cord",
+    "last_name": "Foston",
+    "email": "cfoston3@cocolog-nifty.com",
+    "gender": "Male",
+    "ip_address": "54.181.47.59"
+  }
+]
